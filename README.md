@@ -7,8 +7,6 @@ Pronouns: He/Him
 
 ## Websites, Portfolios, Profiles
 
-[My Github](https://github.com/jbrandona119)
-
 [My LinkedIn](https://www.linkedin.com/in/james-brandon-arnold-46b1a964/)
 
 [My Portfolio](https://jbrandona119.github.io/updated-portfolio/)
