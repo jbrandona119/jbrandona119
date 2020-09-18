@@ -91,8 +91,13 @@ Cardio Charts: A fitness tracking app that shows your workout data after you log
 ##### Community Involvement
 
 _Clean City Commission_ - 2019 -present
+
 _Richmond City's "Alternative to Incarceration" Citizen Advisory Board_ - 2019 -present
+
 _Markel's Spirit of Style Committee_ - 2018 - present
+
 _Markel's Safety Monitor Program_ - 2018 - present
+
 _Richmond Animal League Foster Program_ - 2018 - present
+
 _Housing Families First Monthly Volunteer_ - 2018 - present
