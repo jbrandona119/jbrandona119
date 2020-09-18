@@ -82,19 +82,19 @@ GPA: 3.0
 
 **Project samples**:
 
-*Saiddit: A clone built using React and MongoDB*
+*Saiddit*: A clone built using React and MongoDB
 
 [Deployed Saiddit App](https://saiddit-app.herokuapp.com/)
 
 [Saiddit Github Repo](https://github.com/Z-Camp/Final-Project-First/)
 
-*Cardio Charts: A fitness tracking app that shows your workout data after you log it using JavaScript, MongoDB and Express*
+*Cardio Charts*: A fitness tracking app that shows your workout data after you log it using JavaScript, MongoDB and Express
 
 [Deployed Cardio Charts App](https://safe-sea-39049.herokuapp.com/)
 
 [Cardio Charts Repo](https://github.com/Z-Camp/Project-2)
 
-*Hacker News Search: A basic search application built using React and Redux to find articles on Hacker News using the Algolia API.*
+*Hacker News Search*: A basic search application built using React and Redux to find articles on Hacker News using the Algolia API.
 
 [Hacker News Repo](https://github.com/jbrandona119/Hacker-News-Search)
 
