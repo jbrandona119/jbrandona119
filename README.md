@@ -1,7 +1,7 @@
 # J Brandon Arnold
 
 Richmond, VA 23225
-Cell: (804) 551-2060
+
 E-Mail: jbrandonarnold@gmail.com
 Pronouns: He/Him
 
