@@ -102,7 +102,7 @@ GPA: 3.0
 
 _Clean City Commission_ - 2019 -present
 
-_Richmond City's "Alternative to Incarceration" Citizen Advisory Board_ - 2019 -present
+_Richmond City's "Alternatives to Incarceration" Citizen Advisory Board_ - 2019 -present
 
 _Markel's Spirit of Style Committee_ - 2018 - present
 
