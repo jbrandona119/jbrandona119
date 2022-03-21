@@ -1,6 +1,6 @@
 # J Brandon Arnold
 
-Richmond, VA 23225
+Richmond, VA 23231
 
 E-Mail: jbrandonarnold@gmail.com
 Pronouns: He/Him
@@ -11,9 +11,12 @@ Pronouns: He/Him
 
 [My Portfolio](https://jbrandona119.github.io/updated-portfolio/)
 
+[My TryHackMe](https://tryhackme.com/p/jaybeeayyy)
+
+
 ### Summary
 
-Enthusiastic individual with superior skills in working in both team-based and independent capacities. Bringing strong work ethic and excellent organizational skills to any setting. Excited to begin new challenge with a successful software development team.
+Enthusiastic individual with superior skills in working in both team-based and independent capacities. Bringing strong work ethic and excellent organizational skills to any setting. Excited to begin new challenge helping people build and secure their web applications.
 
 #### Skills
 
@@ -25,11 +28,26 @@ Relationship Development
 Process Improvement
 First Aid/CPR
 Project Organization
-Process improvement
+
 
 ### Experience
 
-**February 2018 to Current
+**February 2021 to Present
+Markel Insurance, VA Richmond, VA
+Associate Claims Specialist**
+
+Monitor high excess claims and potential claims
+Prompt resolution of low complexity and low exposure claims 
+Provide support to other team members
+Collaborate with the claims team and receive assignments from direct supervisor
+Confirm coverage of claims by reviewing policies and documents submitted in support of claims
+Conduct, coordinate and direct investigation into loss facts and extent of damages
+Evaluate information on coverage, liability, and damages to determine the extent of insureds exposure 
+Strong emphasis on customer service to both internal and external customers 
+Set reserves within authority (up to $25,000) and resolve claims within a prompt timeframe avoiding expense relating to independent adjusting
+
+
+**February 2018 to 2021
 Markel Insurance, VA Richmond, VA
 Claims Technician**
 
@@ -49,17 +67,6 @@ Detected potential threats and quickly defused conflicts.
 Assigned inmates to open and appropriate housing units.
 Monitored daily activities to identify and manage suspicious behavior, improper conduct and signs of conflict.
 
-**February 2015 to May 2016
-Perspectives Corporation RI
-Direct Support Professional**
-
-Supported the consumers with mental disabilities with their everyday lives to prepare them for adulthood
-Maintained schedules with the consumers to keep a high standard of living that kept everyone safe and happy
-Earned reputation for good attendance and hard work
-Improved operations by working with team members and customers to find workable solutions
-Enhanced patient wellbeing by supporting participation in recreational activities.
-Supported and encouraged psychiatric patients to promote health and wellness.
-
 **Education and Training**
 
 _University of Richmond_, Richmond, VA
@@ -71,14 +78,18 @@ _Western Governors University_
 Bachelor of Science Business Management 
 GPA: 3.0
 
+_Google IT Fundementals_
+
+[View Certificate Here](https://www.credly.com/badges/91d215bf-dfb4-4330-bde0-c66e2a88cc90)
+
 #### Technology Stack & Projects
 
-* HTML
-* CSS
 * JavaScript
 * Node.js
 * RESTFUL APIs
 * React
+* Networking Fundementals
+* Nmap
 
 **Project samples**:
 
@@ -100,9 +111,9 @@ GPA: 3.0
 
 ##### Community Involvement
 
-_Clean City Commission_ - 2019 -present
+_Clean City Commission_ - 2019 - 2021
 
-_Richmond City's "Alternatives to Incarceration" Citizen Advisory Board_ - 2019 -present
+_Richmond City's "Alternatives to Incarceration" Citizen Advisory Board_ - 2019 - 2021
 
 _Markel's Spirit of Style Committee_ - 2018 - present
 
