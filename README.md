@@ -22,9 +22,11 @@ Enthusiastic individual with superior skills in working in both team-based and i
 
 ### Experience
 
-**September 2022 to Present
-Markel Insurance, Richmmond, VA
-Security Incident Responder**
+**September 2022 to Present**
+
+**Markel Insurance, Richmmond, VA**
+
+**Security Incident Responder**
 
 * Protecting enterprise systems and information by promptly responding to security threats and incidents, acting individually and as part of a team to resolve issues
 * Proactively hunting for threats and enacting identification, containment, and eradication measures while supporting recovery efforts.
