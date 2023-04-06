@@ -2,7 +2,7 @@
 
 Richmond, VA 23231
 
-E-Mail: jbrandonarnold@gmail.com
+E-Mail: jbrandonarnold/at/gmail[.]com
 Pronouns: He/Him
 
 ## Websites, Portfolios, Profiles
