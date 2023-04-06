@@ -13,6 +13,8 @@ Pronouns: He/Him
 
 [My TryHackMe](https://tryhackme.com/p/jaybeeayyy)
 
+[My Hack the Box](https://app.hackthebox.com/profile/374141)
+
 ![Image](https://tryhackme-badges.s3.amazonaws.com/jaybeeayyy.png)
 ### Summary
 
@@ -25,8 +27,24 @@ Enthusiastic individual with superior skills in working in both team-based and i
 
 ### Experience
 
-**February 2021 to Present
-Markel Insurance, VA Richmond, VA
+**September 2022 to Present
+Markel Insurance, Richmmond, VA
+Security Incident Responder**
+
+Protecting enterprise systems and information by promptly responding to security threats and incidents, acting individually and as part of a team to resolve issues
+Proactively hunting for threats and enacting identification, containment, and eradication measures while supporting recovery efforts.
+Act as subject matter expert to provide insight and guidance to colleagues engaging in prevention measures.
+Analyzing cyber security incidents to solve issues and improve incident handling procedures
+Receive Tier 2/3 incident escalation from detection operations and assist with real-time, continuous (24x7) security event monitoring, response, and reporting
+Proactive coordination with appropriate departments during a security incident –management, legal, security (physical), IT operations, and others.
+Conducting research regarding the latest methods, tools, and trends in digital forensics analysis
+Creating thorough reports and documentation of all incidents and procedures; presenting findings to team and leadership on a routine basis
+Perform continuous, active monitoring of systems across several locations, sometimes globally for suspicious activity.
+Assess and report possible security flaws to manager.
+Develops risk-based mitigation strategies for networks, operating systems, and applications
+
+**February 2021 to September 2022
+Markel Insurance, Richmond, VA
 Associate Claims Specialist**
 
 Monitor high excess claims and potential claims
@@ -41,7 +59,7 @@ Set reserves within authority (up to $25,000) and resolve claims within a prompt
 
 
 **February 2018 to 2021
-Markel Insurance, VA Richmond, VA
+Markel Insurance, Richmond, VA
 Claims Technician**
 
 Required a close attention to detail and the ability to be self motivated to stay on time and on task.
@@ -71,7 +89,10 @@ _Western Governors University_
 Bachelor of Science Business Management 
 GPA: 3.0
 
+_isc2 Certified in Cybersecurity_
+
 _Google IT Fundementals_
+
 
 [View Certificate Here](https://www.credly.com/badges/91d215bf-dfb4-4330-bde0-c66e2a88cc90)
 
