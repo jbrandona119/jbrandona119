@@ -39,9 +39,9 @@ Enthusiastic individual with superior skills in working in both team-based and i
 * Develops risk-based mitigation strategies for networks, operating systems, and applications
 
 
-**February 2021 to September 2022
-Markel Insurance, Richmond, VA
-Associate Claims Specialist**
+#### **February 2021 to September 2022
+#### Markel Insurance, Richmond, VA
+#### Associate Claims Specialist**
 
 * Monitor high excess claims and potential claims
 * Prompt resolution of low complexity and low exposure claims 
@@ -54,9 +54,9 @@ Associate Claims Specialist**
 * Set reserves within authority (up to $25,000) and resolve claims within a prompt timeframe avoiding expense relating to independent adjusting
 
 
-**February 2018 to 2021
-Markel Insurance, Richmond, VA
-Claims Technician**
+#### **February 2018 to 2021
+#### Markel Insurance, Richmond, VA
+#### Claims Technician**
 
 * Required a close attention to detail and the ability to be self motivated to stay on time and on task.
 * Team-work was key for creating a fast paced work environment to get claims processed and in the hands of our adjusters.
