@@ -11,9 +11,8 @@ Pronouns: He/Him
 
 [My Portfolio](https://jbrandona119.github.io/updated-portfolio/)
 
-[My TryHackMe](https://tryhackme.com/p/jaybeeayyy)
-
 [My Hack the Box](https://app.hackthebox.com/profile/374141)
+
 
 ![Image](https://tryhackme-badges.s3.amazonaws.com/jaybeeayyy.png)
 ### Summary
