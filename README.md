@@ -9,8 +9,6 @@ Pronouns: He/Him
 
 [My LinkedIn](https://www.linkedin.com/in/james-brandon-arnold-46b1a964/)
 
-[My Portfolio](https://jbrandona119.github.io/updated-portfolio/)
-
 [My Hack the Box](https://app.hackthebox.com/profile/374141)
 
 
