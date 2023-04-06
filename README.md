@@ -27,51 +27,64 @@ Markel Insurance, Richmmond, VA
 Security Incident Responder**
 
 *Protecting enterprise systems and information by promptly responding to security threats and incidents, acting individually and as part of a team to resolve issues
+
 *Proactively hunting for threats and enacting identification, containment, and eradication measures while supporting recovery efforts.
+
 *Act as subject matter expert to provide insight and guidance to colleagues engaging in prevention measures.
+
 *Analyzing cyber security incidents to solve issues and improve incident handling procedures
+
 *Receive Tier 2/3 incident escalation from detection operations and assist with real-time, continuous (24x7) security event monitoring, response, and reporting
+
 *Proactive coordination with appropriate departments during a security incident –management, legal, security (physical), IT operations, and others.
+
 *Conducting research regarding the latest methods, tools, and trends in digital forensics analysis
+
 *Creating thorough reports and documentation of all incidents and procedures; presenting findings to team and leadership on a routine basis
+
 *Perform continuous, active monitoring of systems across several locations, sometimes globally for suspicious activity.
+
 *Assess and report possible security flaws to manager.
+
 *Develops risk-based mitigation strategies for networks, operating systems, and applications
+
 
 **February 2021 to September 2022
 Markel Insurance, Richmond, VA
 Associate Claims Specialist**
 
-Monitor high excess claims and potential claims
-Prompt resolution of low complexity and low exposure claims 
-Provide support to other team members
-Collaborate with the claims team and receive assignments from direct supervisor
-Confirm coverage of claims by reviewing policies and documents submitted in support of claims
-Conduct, coordinate and direct investigation into loss facts and extent of damages
-Evaluate information on coverage, liability, and damages to determine the extent of insureds exposure 
-Strong emphasis on customer service to both internal and external customers 
-Set reserves within authority (up to $25,000) and resolve claims within a prompt timeframe avoiding expense relating to independent adjusting
+*Monitor high excess claims and potential claims
+
+*Prompt resolution of low complexity and low exposure claims 
+
+*Provide support to other team members
+
+*Collaborate with the claims team and receive assignments from direct supervisor
+
+*Confirm coverage of claims by reviewing policies and documents submitted in support of claims
+
+*Conduct, coordinate and direct investigation into loss facts and extent of damages
+
+*Evaluate information on coverage, liability, and damages to determine the extent of insureds exposure 
+
+*Strong emphasis on customer service to both internal and external customers 
+
+*Set reserves within authority (up to $25,000) and resolve claims within a prompt timeframe avoiding expense relating to independent adjusting
 
 
 **February 2018 to 2021
 Markel Insurance, Richmond, VA
 Claims Technician**
 
-Required a close attention to detail and the ability to be self motivated to stay on time and on task.
-Team-work was key for creating a fast paced work environment to get claims processed and in the hands of our adjusters.
-Required critical thinking to improve daily processes through technological advances.
-Earned reputation for good attendance and hard work.
+*Required a close attention to detail and the ability to be self motivated to stay on time and on task.
 
-Utilized Markel-centric software to compile data gathered from various sources.
+*Team-work was key for creating a fast paced work environment to get claims processed and in the hands of our adjusters.
 
-**January 2017 to January 2018
-Nottoway Correctional Center VA
-Correctional Officer**    
+*Required critical thinking to improve daily processes through technological advances.
 
-Supervised inmates during day-to-day activities.
-Detected potential threats and quickly defused conflicts.
-Assigned inmates to open and appropriate housing units.
-Monitored daily activities to identify and manage suspicious behavior, improper conduct and signs of conflict.
+*Earned reputation for good attendance and hard work.
+
+*Utilized Markel-centric software to compile data gathered from various sources.
 
 **Education and Training**
 
