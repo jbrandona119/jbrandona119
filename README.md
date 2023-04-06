@@ -29,10 +29,15 @@ Markel Insurance, Richmmond, VA
 Security Incident Responder**
 
 Protecting enterprise systems and information by promptly responding to security threats and incidents, acting individually and as part of a team to resolve issues
+
 Proactively hunting for threats and enacting identification, containment, and eradication measures while supporting recovery efforts.
+
 Act as subject matter expert to provide insight and guidance to colleagues engaging in prevention measures.
+
 Analyzing cyber security incidents to solve issues and improve incident handling procedures
+
 Receive Tier 2/3 incident escalation from detection operations and assist with real-time, continuous (24x7) security event monitoring, response, and reporting
+
 Proactive coordination with appropriate departments during a security incident –management, legal, security (physical), IT operations, and others.
 Conducting research regarding the latest methods, tools, and trends in digital forensics analysis
 Creating thorough reports and documentation of all incidents and procedures; presenting findings to team and leadership on a routine basis
